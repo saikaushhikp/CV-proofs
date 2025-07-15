@@ -20,16 +20,39 @@
 6. KNN on Abalone Dataset -> [link](https://github.com/saikaushhikp/AI1104-Programming-for-AI/blob/main/AI1104%20Project%20Q3.py)  
 the complete repo -> [link](https://github.com/saikaushhikp/AI1104-Programming-for-AI)
 
+---
+---
+
+# Ranks
+1. Jee Adv  : 
+![jee adv](jee-adv-2023.jpeg)
+
+2. Jee mains : 
+![jee mains](jee-mains-2023.jpeg)
+
+3. AP EAMCET :
+![AP EAMCET](eamcet-2023.jpeg)
+---
+i think i lost my AP EAMCET rank card, so i am not able to upload it here, i'll try to get it soon
+
+---
+---
+
 # Club positions
 
 1. Ml-Core | Tinkeres' lab IITH
 ![TL team banner](TL_team_banner.png)  
-ml 
 ![ml core](Ml-core-psk.png)
 
-2. UG buddy | Sunshine IITH
+2. UG buddy | Sunshine IITH  
+![2024](Buddy-2024.jpg)
+![2025](Buddy-2025.jpg)
+
+---
+---
 
 # extra curriculars 
 1. NSS student volenteer :
 ![NSS-student-volenteer](NSS-student-volenteer.png)
 
+---
