@@ -23,7 +23,8 @@ the complete repo -> [link](https://github.com/saikaushhikp/AI1104-Programming-f
 # Club positions
 
 1. Ml-Core | Tinkeres' lab IITH
-![TL team banner](TL_team_banner.jpg)
+![TL team banner](TL_team_banner.png)  
+ml 
 ![ml core](Ml-core-psk.png)
 
 2. UG buddy | Sunshine IITH
