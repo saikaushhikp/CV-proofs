@@ -31,9 +31,7 @@ the complete repo -> [link](https://github.com/saikaushhikp/AI1104-Programming-f
 ![jee mains](jee-mains-2023.jpeg)
 
 3. AP EAMCET :
-![AP EAMCET](eamcet-2023.jpeg)
----
-i think i lost my AP EAMCET rank card, so i am not able to upload it here, i'll try to get it soon
+![AP EAMCET](eamcet-2023.jpg)
 
 ---
 ---
