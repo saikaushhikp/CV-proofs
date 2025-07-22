@@ -21,32 +21,31 @@
 the complete repo -> [link](https://github.com/saikaushhikp/AI1104-Programming-for-AI)
 
 ---
----
+
 
 # Ranks
 1. Jee Adv  : 
-![jee adv](jee-adv-2023.jpeg)
+![jee adv](Ranks/jee-adv-2023.jpeg)
 
 2. Jee mains : 
-![jee mains](jee-mains-2023.jpeg)
+![jee mains](Ranks/jee-mains-2023.jpeg)
 
 3. AP EAMCET :
-![AP EAMCET](eamcet-2023.jpg)
+![AP EAMCET](Ranks/eamcet-2023.jpg)
 
 ---
----
+
 
 # Club positions
 
 1. Ml-Core | Tinkeres' lab IITH
-![TL team banner](TL_team_banner.png)  
-![ml core](Ml-core-psk.png)
+![TL team banner](PORs/TL_team_banner.png)  
+![ml core](PORs/Ml-core-psk.png)
 
 2. UG buddy | Sunshine IITH  
-![2024](Buddy-2024.jpg)
-![2025](Buddy-2025.jpg)
+![Buddy-2024](PORs/Buddy-2024.jpg)
+![Buddy-2025](PORs/Buddy-2025.jpg)
 
----
 ---
 
 # extra curriculars 
