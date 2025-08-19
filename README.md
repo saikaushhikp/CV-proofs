@@ -1,3 +1,6 @@
+# Latest Update
+- on the way
+
 # Projects 
 
 1. Riscv-simulator:  [version 1](https://github.com/saikaushhikp/CS2323-Carch/tree/main/Lab4)  , [version 2](https://github.com/saikaushhikp/CS2323-Carch/tree/main/Lab7)  
