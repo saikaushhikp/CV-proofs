@@ -1,5 +1,5 @@
 # Latest Update
-- on the way
+- Proofs for ongoing mini-project has been submitted✔️
 
 # Projects 
 
